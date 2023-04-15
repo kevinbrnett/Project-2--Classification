@@ -16,20 +16,21 @@ Accurately predict if a patient is at risk for stroke based on several factors
  
  ## Data Dictionary:
  
- 
+ ![Data Dictionary](https://user-images.githubusercontent.com/103015330/232175076-4e742e3b-71b6-4a84-8033-72d5cc359f16.png)
+
 
 ## To Prepare the dataset, it was cleaned, and the following processes were performed:
 
 ## Exploratory Data Analysis:
 
 **BMI vs. Age Status in Relation to Stroke**
+![Plot 1](https://user-images.githubusercontent.com/103015330/232175081-e348034d-b3b0-441d-91c4-64d37daf48a5.png)
 
 
 
 
-
-
-
+**BMI vs. Avg Blood Glucose in Relation to Stroke**
+![Plot 2](https://user-images.githubusercontent.com/103015330/232175088-cf7751b4-e356-4e10-82b2-5b8b5b870348.png)
 
 
 
