@@ -1,12 +1,12 @@
 # Classification Problem with Stroke Predictions
 
-## Analyzing Various Risk Factors For Strokes To Predict Patients That Are At Risk For Strokes
+## Predicting Patients that are at Risk of Having a Stroke Using Various Factors 
 
 Kevin Barnett
 
 **Business Problem**:
 
-Accurately predict if a patient is at risk for stroke based on several factors
+Building a tool a primary care physician can use to accurately predict if a patient will have a stroke. Most importantly being able to rule out the possibility of the patient having a stroke.
  
 ## Data Source:
 
