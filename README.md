@@ -16,34 +16,32 @@ Building a tool a primary care physician can use to accurately predict if a pati
  
  ## Data Dictionary:
  
- ![Data Dictionary](https://user-images.githubusercontent.com/103015330/232175076-4e742e3b-71b6-4a84-8033-72d5cc359f16.png)
-
+ ![Data Dictionary](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Data%20Dictionary.png)
 
 ## To Prepare the dataset, it was cleaned, and the following processes were performed:
 
 ## Exploratory Data Analysis:
 
-**BMI vs. Age Status in Relation to Stroke**
-![Plot 1](https://user-images.githubusercontent.com/103015330/232175081-e348034d-b3b0-441d-91c4-64d37daf48a5.png)
+**Avg. Glucose Level vs. Age in Relation to Stroke**
+![Plot 1](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Glucose_vs_Age_Plot.png)
 
 
 
+**Age vs. Gender in Relation to Stroke**
+![Plot 2](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Age_vs_Gender_Stroke.png)
 
-**BMI vs. Avg Blood Glucose in Relation to Stroke**
-![Plot 2](https://user-images.githubusercontent.com/103015330/232175088-cf7751b4-e356-4e10-82b2-5b8b5b870348.png)
 
+
+**Age vs. Stroke in Relation to Work Type**
+![Plot 3](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Age_vs_Stroke_Work.png)
 
 
 ## Recommended Model Metrics:
 
-- Random Forest Model with PCA:
-  - Accuracy: 0.94
-  - Recall: 1.00
-  - Precision: 0.94
-  - F1-Score: 0.97
+![Model](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Recommended_Model.png)
 
 ## Final Recommendations:
 
--  The model I recommend putting into production is the Tuned Random Forest model with Principal Component Analysis. The business problem we are addressing is correctly predicting the patients at risk for stroke based on several factors. For this problem minimizing false negatives (type 2 errors) is most important. This model has false negatives ~3% of the time.
+-  The model excels in identifying true negative cases with only 1.8% false negatives. The pitfall of the model is the high false positives (84%). It is recommended that a physician use the model to rule out the probability of having a stroke. In cases of the model predicting that a patient will have a stroke further testing should be conducted
 
 
