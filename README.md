@@ -6,7 +6,7 @@ Kevin Barnett
 
 **Business Problem**:
 
-Building a tool a primary care physician can use to accurately predict if a patient will have a stroke. Most importantly being able to rule out the possibility of the patient having a stroke.
+A family medicine clinic is seeing a rise in strokes in their patient population. They want to be able to predict if a patient is at risk for stroke based on data they already input into their electronic medical records.
  
 ## Data Source:
 
