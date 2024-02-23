@@ -1,4 +1,4 @@
-# Classification Problem with Stroke Predictions
+# Predicting Strokes with Machine Learning
 
 ## Predicting Patients that are at Risk of Having a Stroke Using Various Factors 
 
