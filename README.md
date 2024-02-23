@@ -22,7 +22,7 @@ Building a tool a primary care physician can use to accurately predict if a pati
 
 ## Exploratory Data Analysis:
 
-**Avg. Glucose Level vs. Age in Relation to Stroke**
+**Avg. Glucose Level vs. Age in Relation to Stroke** \n
 ![Plot 1](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Glucose_vs_Age_Plot.png)
 
 
