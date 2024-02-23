@@ -29,11 +29,13 @@ Building a tool a primary care physician can use to accurately predict if a pati
 
 
 **Age vs. Gender in Relation to Stroke**
+
 ![Plot 2](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Age_vs_Gender_Stroke.png)
 
 
 
 **Age vs. Stroke in Relation to Work Type**
+
 ![Plot 3](https://github.com/kevinbrnett/Stroke-Predictions-Classification/blob/main/images/Age_vs_Stroke_Work.png)
 
 
